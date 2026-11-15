@@ -1,0 +1,3 @@
+# Classroom simulation
+These fictional records came from the user-provided LawnLens HTML snapshot, version 1.0. The original declared provenance is “LawnLens generator v1; seed 311” and reuse is permitted for the original synthetic classroom data. The simulation uses fictitious brand names and contains no real customer comments or campaign measurements. There are 3,000 posts and 35,919 linked comment records.
+The source reference date is 20 December 2025. Simulated publication dates are calculated by subtracting days_since_post from this date. Assigned comment IDs follow source ordering; the text and post relationships are preserved. The new website recomputes the analysis and cluster IDs for the current filters.
